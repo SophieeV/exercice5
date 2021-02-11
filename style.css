@@ -1,0 +1,50 @@
+body
+{
+margin-bottom: 20%;
+}
+div
+{
+  float: left;
+  height: 50px;
+}
+.green
+{
+  background-color:green;
+  width: 80%;
+}
+.blue
+{
+  background-color:blue;
+  width: 20%;
+}
+.red
+{
+  background-color:red;
+  width: 40%;
+  height: 100px;
+}
+.lightorange
+{
+  background-color:#eb984e;
+  width: 30%;
+}
+.grey
+{background-color:grey;
+  width: 30%;
+}
+.yellow
+{background-color:yellow;
+  width: 20%;
+}
+.turquoise
+{background-color: #008080;
+  width: 40%;
+}
+.orange
+{background-color:#ff5733;
+  width: 100%;
+}
+.charcoal
+{ background-color:#1b2631;
+  width: 100%;
+}
